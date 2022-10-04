@@ -10,6 +10,8 @@
 * https://www.data.va.gov/browse
 * https://resources.data.gov/resources/dcat-us/
 * https://schema.org/
+* https://www.tylertech.com/products/data-insights/data-platform
+
 
 ## kernel utility - VistA JSON data
 * https://www.data.va.gov/dataset/VistA-JSON-Utility/upex-ajwq
@@ -27,5 +29,7 @@ Department of Veterans Affairs, Veterans Health Administration,
 810 Vermont Ave. NW, Washington, DC 20420. 202-632-8457.
 ```
 
+
+https://beta.nsf.gov/funding/opportunities/encouraging-research-open-knowledge-networks
 
 
