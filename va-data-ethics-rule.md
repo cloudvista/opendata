@@ -1,6 +1,8 @@
 AR52-Final Rule-Principle-Based Ethics Framework for Access to and Use of Veteran Data
 Posted by the Department of Veterans Affairs on Jul 7, 2022
 
+https://www.regulations.gov/document/VA-2022-OTHER-0017-0001
+
 
 Action
 Final rule.
